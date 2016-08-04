@@ -1,0 +1,37 @@
+_repo: Under-the-Lilacs_3795
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Alcott, Louisa May
+    aliases:
+    - Alcott, Louisa M. (Louisa May)
+    - Alcott, L. M. (Louisa May)
+    - Barnard, A. M.
+    birthdate: 1832
+    deathdate: 1888
+    gutenberg_agent_id: '102'
+    url: http://www.gutenberg.org/2009/agents/102
+    wikipedia: http://en.wikipedia.org/wiki/Louisa_May_Alcott
+description: Relates the adventures of Ben Brown, his performing poodle Sancho, and
+  the two young girls who feed and cared for them after the boy and dog run away from
+  the circus.
+gutenberg_bookshelf: Children's Literature
+gutenberg_issued: '2003-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3795'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Runaway children -- Juvenile fiction'
+- !lcsh 'Circus -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Dogs -- Juvenile fiction'
+- !lcsh 'Girls -- Juvenile fiction'
+- !lcc 'PS'
+- GITenberg
+title: Under the Lilacs
+url: http://www.gutenberg.org/ebooks/3795
